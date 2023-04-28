@@ -1,2 +1,2 @@
 # StockMarketPrediction
-College Major Project
+College Project by Suhaib Ahmed using LSTM
