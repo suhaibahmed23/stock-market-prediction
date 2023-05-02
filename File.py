@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 # In[4]:
 
 
-df = pd.read_csv(r'C:\Users\bilal\Desktop\STOCK MARKET ANALYSIS\AAPL.csv')
+df = pd.read_csv(r'C:\Users\suhaib\Desktop\STOCK MARKET ANALYSIS\AAPL.csv')
 
 
 # In[6]:
